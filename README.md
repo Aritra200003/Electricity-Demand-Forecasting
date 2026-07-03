@@ -112,8 +112,6 @@ This project develops and compares both classical time-series models and deep le
 ## 👤 Author
 
 **Aritra Chakraborty**  
-M.Sc. Statistics & Computing  
-Banaras Hindu University
 
 ---
 
